@@ -1,8 +1,18 @@
 ## Hi there 👋
-## 👋 Hello, I'm Phil Jiang!
+## 👋 Hello, I'm Phil!
 
 ### 🚀 About Me
 I'm a passionate full stack developer with a keen interest in creating beautiful and user-friendly web applications. My journey in the world of coding has been an exciting one, and I'm always eager to learn and explore new technologies.
+
+### Contact Me!
+<p align="left">
+  <a href="mailto:liyuekko@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://www.linkedin.com/in/phil-jiang/](https://www.linkedin.com/in/phil-jiang-lyyu/)" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ### 💻 Tech Stack
 
