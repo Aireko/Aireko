@@ -61,6 +61,6 @@ I believe in continuous improvement, and currently, I'm expanding my skills in m
 ### Projects
 Here are some projects I've worked on:
 
-- [https://frc6390.ca/](https://frc6390.ca/): A dynamic and engaging website with the goal of displaying the passion of FRC Team 6390.  
+- [https://frc6390.ca/](https://frc6390.ca/): A dynamic and engaging website with the goal of displaying the passion of FRC Team 6390. (I'm reworking this with a new team, check back later for more progress!) 
 - [https://app.niamon.tech/](https://app.niamon.tech/): A modern web application built to demonstrate strong full-stack development, UI design, and deployment practices.
 - [https://instructive-ui.vercel.app/app/home](https://instructive-ui.vercel.app/app/home): An interactive UI component library and documentation platform showcasing design patterns and best practices.
