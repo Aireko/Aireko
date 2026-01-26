@@ -1,3 +1,5 @@
+![Visitor Count](https://komarev.com)
+
 ## Hi there 
 ## Hello, I'm Phil!
 
